@@ -10,6 +10,7 @@ cd movie-recommendation-system
 pip install -r requirements.txt
 
 #Usage
+
 1.Run the Streamlit app:
 streamlit run app.py
 
