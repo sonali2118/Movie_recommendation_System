@@ -2,11 +2,14 @@
 A content-based movie recommendation web app built with **Python**, **Streamlit**, and **scikit-learn**. Users can search for a movie and get recommendations based on its similarity to other movies.
 
 #Installation
+
 1.Clone the repository:
 git clone https://github.com/your-username/movie-recommendation-system.git
+
 cd movie-recommendation-system
 
 2.Install the required packages:
+
 pip install -r requirements.txt
 
 #Usage
