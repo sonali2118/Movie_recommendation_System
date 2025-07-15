@@ -19,29 +19,33 @@ Users can search for a movie and get recommendations based on its similarity to 
 Follow the steps below to set up the project locally:
 
 - Clone the repository:
-  ```bash
+  
   git clone https://github.com/sonali2118/movie-recommendation-system.git
   cd movie-recommendation-system
-Install the required packages:
+- Install the required packages:
 
 pip install -r requirements.txt
-▶️ Usage
+
+- ▶️ Usage
 Run the Streamlit app:
 
 streamlit run app.py
-Open your web browser and go to:
+
+- Open your web browser and go to:
 
 
 http://localhost:8501
-Select a movie from the dropdown list and click "Recommend" to get the top 10 recommended movies with posters.
+
+- Select a movie from the dropdown list and click "Recommend" to get the top 10 recommended movies with posters.
 
 🛠️ Tech Stack
-Python
 
-Streamlit
+- Python
 
-Scikit-learn
+- Streamlit
 
-Pandas
+- Scikit-learn
+
+- Pandas
 
 
