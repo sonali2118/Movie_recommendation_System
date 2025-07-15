@@ -27,6 +27,7 @@ Follow the steps below to set up the project locally:
 pip install -r requirements.txt
 
 - ▶️ Usage
+
 Run the Streamlit app:
 
 streamlit run app.py
@@ -38,7 +39,8 @@ http://localhost:8501
 
 - Select a movie from the dropdown list and click "Recommend" to get the top 10 recommended movies with posters.
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 - Python
 
